@@ -1,3 +1,5 @@
+## Project Description
+
 The project that aims to predict hand gestures using data collected from a wearable device's gyroscope and accelerometer. 
 This project involves several key steps to process the collected sensor data and generate accurate hand gesture predictions. 
 These steps include data sampling, filtering, event triggering, feature extraction, feature selection, and classification. 
