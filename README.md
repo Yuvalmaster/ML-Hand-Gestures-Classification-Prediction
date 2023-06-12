@@ -17,6 +17,17 @@ Feature extraction techniques are applied to the segmented data to derive meanin
 
 Finally, the processed data, along with the extracted features, are used to train a classification model.
 
+## Repository Structure
+Here is an overview of the repository's main components:
+
+* Functions: This folder contains all the necessary MATLAB functions and scripts required for data processing, feature extraction, feature selection, and classification. These functions are carefully organized to ensure modularity and reusability.
+
+* Data Folder: To access the data required for this project, please send me an email. Upon request, a link will be provided to access the Data folder, which contains the raw sensor data collected from the wearable device.
+
+* Train Folder: The Train folder includes preprocessed data that has undergone the necessary steps of sampling, filtering, event triggering, and feature extraction. This data is utilized to train the classification model.
+
+* Test Folder: The Test folder comprises separate datasets used for evaluating the trained classification model's performance. These datasets contain unseen samples of sensor data, and the model's predictions are compared with ground truth labels to assess its accuracy.
+
 ## Accessing the Repository
 To access the data required for this project, including the Data, Train, and Test folders,please send me an email, and I will be glad to provide you with a link that includes all the files. Accessing these folders will allow you to explore the dataset used for training and testing the hand gesture prediction model.
 
