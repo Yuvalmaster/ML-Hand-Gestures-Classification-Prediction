@@ -1,6 +1,7 @@
 # Hand Gesture Prediction using Wearable Device Data 👋
 This GitHub repository showcases a project that focuses on predicting hand gestures using data collected from a wearable device's gyroscope and accelerometer. The project leverages machine learning techniques to process the collected sensor data and generate predictions of selected hand gestures.
-![metamotionr-1](https://github.com/Yuvalmaster/ML-Hand-Gestures-Classification-Prediction/assets/121662835/ca0b1654-716e-4ac7-8ef7-dc73d16a537b)
+
+![metamotionr-1](https://github.com/Yuvalmaster/ML-Hand-Gestures-Classification-Prediction/assets/121662835/4dc660d9-99d5-4d3e-b6ae-70f305c17603)
 
 ## Project Overview
 The main objective of this project is to analyze and interpret the motion data captured by the gyroscope and accelerometer of a MMR (MetaMotionR) wearable device. By processing this data, the project aims to predict hand gestures accurately. The prediction algorithm involves several key steps, including data sampling, filtering, event triggering, feature extraction, feature selection, and classification.
