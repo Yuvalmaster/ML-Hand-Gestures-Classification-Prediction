@@ -20,7 +20,7 @@ Finally, the processed data, along with the extracted features, are used to trai
 ## Repository Structure
 Here is an overview of the repository's main components:
 
-* Functions: This folder contains all the necessary MATLAB functions and scripts required for data processing, feature extraction, feature selection, and classification. These functions are carefully organized to ensure modularity and reusability.
+* Functions: This folder contains all the necessary MATLAB functions and scripts required for data processing, feature extraction, feature selection, and classification.
 
 * Data Folder: To access the data required for this project, please send me an email. Upon request, a link will be provided to access the Data folder, which contains the raw sensor data collected from the wearable device.
 
