@@ -29,8 +29,6 @@ Here is an overview of the repository's main components:
 * Test Folder: The Test folder comprises separate datasets used for evaluating the trained classification model's performance. These datasets contain unseen samples of sensor data, and the model's predictions are compared with ground truth labels to assess its accuracy.
 
 ## Accessing the Repository
-To access the data required for this project, including the Data, Train, and Test folders,please send me an email, and I will be glad to provide you with a link that includes all the files. Accessing these folders will allow you to explore the dataset used for training and testing the hand gesture prediction model.
+Accessing Data, Train, Test Folders will allow you to explore the dataset used for training and testing the hand gesture prediction model.
 
 Feel free to navigate through the repository, explore the project details, and review the MATLAB code. If you have any questions or require additional information, please don't hesitate to contact me.
-
-Note: Due to the sensitivity and size of the data, access to the Data, Train, and Test folders is granted upon request to ensure its proper usage and privacy.
